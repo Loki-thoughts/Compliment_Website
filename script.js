@@ -1,7 +1,7 @@
 function generateCompliment() {
     const compliments = {
         "Ushalatha Sannegowda": "Are you a land broker, because I want to sell the whole plot in my heart to you!",
-        "Yaser Ahmed": "Good friends don't let you do stupid things... alone, but our creativity is off the charts!",
+        "Yaser Ahmed": "Good friends don't let you do stupid things  alone, but our creativity is off the charts!",
         "James Selvaraj": "You are a natural leader!",
         "Varsha Nanjunda": "Your positivity is contagious!",
         "Isaiah Hanok": "You have an incredible work ethic!",
@@ -21,12 +21,12 @@ function generateCompliment() {
         "Pavitra Raju": "Do you have a Band-Aid? People just scraped their knee falling for you.",
         "Shafiya Saba": "Are you a camera? Because every time we look at you, we smile.",
         "Teju Devaraju": "Is your name Wi-Fi? Because I'm really feeling a strong connection.",
-        "Milca Machthelin":"We're the 'before' and 'after' pictures of friendship – crazy and crazier!" ,
+        "Milca Machthelin": "We're the 'before' and 'after' pictures of friendship – crazy and crazier!" ,
         "Navitha Vallem": "4+4=8 but you+me=fate",
-         "Meghana Nagaraj":"You're looking a little sick, you must be suffering from lack of Vitamin Me.",
+         "Meghana Nagaraj": "You're looking a little sick, you must be suffering from lack of Vitamin Me.",
         "Liza Lazar" : "A good friend will help you move. But a best friend will help to move your dead body.",
         "Shalini Suresh" : "We're not just friends; we're each other's personal comedians.",
-        "Megha Arunachalachari":"A good friend will bail you out of jail. A best friend will be sitting next to you saying, 'Damn, that was fun.'" ,
+        "Megha Arunachalachari": "A good friend will bail you out of jail. A best friend will be sitting next to you saying, 'Damn, that was fun.'" 
         
     };
 
