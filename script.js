@@ -5,7 +5,7 @@ function generateCompliment() {
         "James Selvaraj": "You are a natural leader!",
         "Varsha Nanjunda": "Your positivity is contagious!",
         "Isaiah Hanok": "You have an incredible work ethic!",
-        "Shalini Ayyaswamy": "Please don't laugh!, Better Luck Next Time!!!",
+        "Shalini Ayyaswamy": "Please don't laugh, Better Luck Next Time 👋",
         "Jayashree Etteari": "You have an amazing smile and a heart of gold.",
         "Manisha Das": "Are you an astronaut? Because to us, you’re out of this world!",
         "Arthi Bhat": "Let’s play a game! If I win, you take me out. If you win, I take you out.",
