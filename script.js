@@ -21,7 +21,7 @@ function generateCompliment() {
         "Pavitra Raju": "Do you have a Band-Aid? People just scraped their knee falling for you.",
         "Shafiya Saba": "Are you a camera? Because every time we look at you, we smile.",
         "Teju Devaraju": "Is your name Wi-Fi? Because I'm really feeling a strong connection.",
-        "Milca Machthelin":"We're the 'before' and 'after' pictures of friendship – crazy and crazier!"
+        "Milca Machthelin":"We're the 'before' and 'after' pictures of friendship – crazy and crazier!" ,
         "Navitha Vallem": "4+4=8 but you+me=fate",
          "Meghana Nagaraj":"You're looking a little sick, you must be suffering from lack of Vitamin Me.",
         "Liza Lazar" : "A good friend will help you move. But a best friend will help to move your dead body.",
