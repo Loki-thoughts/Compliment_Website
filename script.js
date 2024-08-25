@@ -3,7 +3,7 @@ function generateCompliment() {
         "Ushalatha Sannegowda": "Are you a land broker, because I want to sell the whole plot in my heart to you!",
         "Yaser Ahmed": "Good friends don't let you do stupid things  alone, but our creativity is off the charts!",
         "James Selvaraj": "You are a natural leader!",
-        "Varsha Nanjunda": "Your positivity is contagious!. I’m sure whoever let you go regrets it, do you agree?",
+        "Varsha Nanjunda": "Your positivity is contagious. I’m sure whoever let you go regrets it, do you agree? ",
         "Isaiah Hanok": "You have an incredible work ethic!",
         "Shalini Ayyaswamy": "Please don't laugh, Better Luck Next Time ",
         "Jayashree Etteari": "You have an amazing smile and a heart of gold.",
