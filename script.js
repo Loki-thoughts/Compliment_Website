@@ -15,7 +15,7 @@ function generateCompliment() {
         "Ramya Renukaradhya": "Let me guess three things about you: You’re really funny, really cute, and really in need of a date Friday night?",
         "Priya Srinivas": "Do you have a map? People keep getting lost in your eyes.",
         "Yamuna Kemparaju": "Is your name Google? Because you have everything people have been searching for.",
-        "Ramya": "Are you a magician? Because whenever someone looks at you, everyone else disappears.",
+        "Ramya Rudreshappa": "Are you a magician? Because whenever someone looks at you, everyone else disappears.",
         "Chaithra Rajesh": "Do you believe in love at first sight, or should we walk by again?",
         "Hemalatha Bolugouni": "If you were a vegetable, you'd be a cute-cumber.",
         "Pavitra Raju": "Do you have a Band-Aid? People just scraped their knee falling for you.",
