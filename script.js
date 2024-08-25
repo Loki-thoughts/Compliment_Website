@@ -17,6 +17,7 @@ function generateCompliment() {
         "Yamuna Kemparaju": "Is your name Google? Because you have everything people have been searching for.",
         "Ramya Rudreshappa": "Are you a magician? Because whenever someone looks at you, everyone else disappears.",
         "Chaithra Rajesh": "Do you believe in love at first sight, or should we walk by again?",
+        "Sneha Nalatwad" : "You look like someone who’s in desperate need of my phone number. I guarantee you, I’m not flirting with you. I’m just being extra nice to someone who’s extra attractive." ,
         "Hemalatha Bolugouni": "If you were a vegetable, you'd be a cute-cumber.",
         "Pavitra Raju": "Do you have a Band-Aid? People just scraped their knee falling for you.",
         "Shafiya Saba": "Are you a camera? Because every time we look at you, we smile.",
